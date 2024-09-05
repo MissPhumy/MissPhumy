@@ -15,11 +15,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-<!-- ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) -->
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+<!-- ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) -->
+
 <!-- ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask) -->
 <!-- ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) -->
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+
 
 ## 🎓 **Education**
 
