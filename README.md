@@ -1,4 +1,4 @@
-# 💻 **[Your Name]**
+# 💻 **Prudence Radebe**
 
 **_Aspiring Software Engineer | Passionate About Fusing Creativity with Code and Leveraging AI to Drive Innovation | Inspired by Innovative Solutions and potential of AI to Transform Industries and Improve Live_**
 
