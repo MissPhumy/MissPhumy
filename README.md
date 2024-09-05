@@ -3,8 +3,8 @@
 **_Aspiring Software Engineer | Passionate About Fusing Creativity with Code and Leveraging AI to Drive Innovation | Inspired by Innovative Solutions and potential of AI to Transform Industries and Improve Live_**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prudence-radebe-736b08241/)
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com) -->
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:missphumy@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com) -->
 
 ---
 
