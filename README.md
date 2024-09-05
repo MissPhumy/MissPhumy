@@ -86,7 +86,7 @@ _“CONSISTENCY is what transforms [average] to EXCELLENCE”_
 </p>
 
 ## 💬 **Get in Touch**
-I’m open to collaboration on projects and discussions on [topics you’re interested in]. Feel free to connect with me through [your preferred contact method].
+I’m open to collaboration on projects and discussions on Software Development, Machine Learning, Web Development, IoT and Hardware Intergation. Feel free to connect with me through e-mail.
 
 ---
 
