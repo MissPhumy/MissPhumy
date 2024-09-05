@@ -44,25 +44,39 @@ _August 2023 - September 2023_
 **Role:** Full-Stack Developer  
 **Description:** Developed an image classification app with a custom machine learning model. The app allows users to upload images, which are processed by a trained model to classify objects within the image. The backend API handles the model inference, and the frontend provides a user-friendly interface for interacting with the classifier.  
 **Technologies Used:** Python, TensorFlow, Flask (API), React (Frontend)  
-**Link:** [GitHub Repository](#https://github.com/MissPhumy/image-Classification)
+**Link:** [GitHub Repository](https://github.com/MissPhumy/image-Classification)
 
 ---
 
-### **Project: [Project Title 2]**
-**Role:** [Your Role]
-**Description:** [A brief description of the project, what you worked on, and its impact.]
+### **Project: OLED Camera Integration on Raspberry Pi** 
+**Role:** IoT Developer  
+**Description:** Wrote code for integrating an OLED camera with a Raspberry Pi, enabling real-time image capturing. Additionally, implemented QR code generation for device identification and monitoring. The system is designed to scan and process images efficiently while monitoring device status for enhanced functionality and performance.  
+**Technologies Used:** Python, Raspberry Pi, OLED Camera, QR Code Generation, Device Monitoring
+**Link:** [GitHub Repository](https://github.com/MissPhumy/QR-Reader-with-OLED-Display)
 
-### **Project: [Project Title 3]**
-**Role:** [Your Role]
-**Description:** [A brief description of the project, what you worked on, and its impact.]
+---
+
+### **Project: Tablet Traceability Application**
+**Role:** Full-Stack Developer  
+**Description:** Built an application that uses captured scanned component serial numbers via an API and sends the data to a centralized app. The application includes two forms: one for user login and another for updating and managing component information. Additionally, created an API to allow updates to be made on a tablet and synchronized with the main app. Applied object-oriented principles, particularly inheritance, to structure the application’s logic.  
+**Technologies Used:** Django, Django REST Framework (DRF), JavaScript, HTML, CSS, Axios
+**Link:** [GitHub Repository](#)
+
+---
+
 
 ## 🌱 **What I’m Learning & Exploring**
-- [Skill/Technology 1]
-- [Skill/Technology 2]
-- [Skill/Technology 3]
+- Diving deeper into **Django** and **Django REST Framework** for building scalable backend APIs.
+- Exploring **Cloud Computing** platforms like AWS and **Containerization** with Docker.
+- Enhancing skills in **JavaScript** frameworks such as **React** and learning state management with **Redux**.
+- Delving into **Machine Learning** and image processing techniques with **TensorFlow**.
+- Strengthening knowledge of **Object-Oriented Programming (OOP)** concepts, especially **inheritance**.
+- Experimenting with **IoT projects** using **Raspberry Pi** for hardware-software integration.
+-  Learning about **CI/CD pipelines** and automation tools like **GitHub Actions**.
+
 
 ## 🌟 **What Inspires Me**
-_“[Quote or personal statement that resonates with your work philosophy or inspirations.]”_
+_“CONSISTENCY is what transforms [average] to EXCELLENCE”_
 
 ## 📈 **GitHub Stats**
 <p align="center">
@@ -76,4 +90,4 @@ I’m open to collaboration on projects and discussions on [topics you’re inte
 
 ---
 
-**“[Your Personal Motto or Closing Statement]”**
+**“Imagination Consististency Success”**
