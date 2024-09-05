@@ -26,7 +26,7 @@
 ## 🎓 **Education**
 
 **ALX Software Engineering Program**
-_August 2023 - [Graduation Month/Year]_
+_August 2023 - September 2023_
 
 **Key Focus Areas:**
 - [Focus Area 1]
