@@ -29,15 +29,24 @@
 _August 2023 - September 2023_
 
 **Key Focus Areas:**
-- [Focus Area 1]
-- [Focus Area 2]
-- [Focus Area 3]
+- Data Structures and Algorithms
+- Object-Oriented Programming (OOP)
+- Web Development (Frontend & Backend)
+- Version Control (Git & GitHub)
+- Testing and Debugging
+- Agile Methodologies
+- Cloud Computing and DevOps
+<!-- -  Databases and SQL -->
 
 ## 💼 **Experience**
 
-### **Project: [Project Title 1]**
-**Role:** [Your Role]
-**Description:** [A brief description of the project, what you worked on, and its impact.]
+### **Project: Image Classification App**
+**Role:** Full-Stack Developer  
+**Description:** Developed an image classification app with a custom machine learning model. The app allows users to upload images, which are processed by a trained model to classify objects within the image. The backend API handles the model inference, and the frontend provides a user-friendly interface for interacting with the classifier.  
+**Technologies Used:** Python, TensorFlow, Flask (API), React (Frontend)  
+**Link:** [GitHub Repository](#https://github.com/MissPhumy/image-Classification)
+
+---
 
 ### **Project: [Project Title 2]**
 **Role:** [Your Role]
